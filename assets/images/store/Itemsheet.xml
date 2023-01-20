@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Itemsheet.png">
+<SubTexture name="Bandage0000" x="198" y="0" width="552" height="386" frameX="-18" frameY="-57" frameWidth="600" frameHeight="500" />
+<SubTexture name="Checkpoint0000" x="0" y="0" width="198" height="500" frameX="-184" frameY="0" frameWidth="600" frameHeight="500" />
+</TextureAtlas>
