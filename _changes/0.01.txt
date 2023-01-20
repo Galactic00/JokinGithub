@@ -1,4 +1,4 @@
-assets/preload/weeks/week1.json
+assets/weeks/week1.json
 manifest/default.json
 manifest/shared.json
 manifest/songs.json
