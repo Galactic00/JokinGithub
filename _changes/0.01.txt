@@ -8,6 +8,4 @@ manifest/week3.json
 manifest/week4.json
 manifest/week5.json
 manifest/week6.json
-manifest/week7.json
-mods/credits.json
-FNFMCPsychPort.exe
+PsychEngine.exe
