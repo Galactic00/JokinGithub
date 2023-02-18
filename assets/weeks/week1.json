@@ -3,18 +3,14 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Bopeebo",
@@ -53,8 +49,35 @@
 			]
 		],
 		[
-			"it fr did",
-			"",
+			"This Goober",
+			"sunky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Despair",
+			"obunga",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Markus",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Can",
+			"dad",
 			[
 				146,
 				113,
@@ -62,7 +85,11 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
-	"weekName": "Custom Week",
-	"hiddenUntilUnlocked": false
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
 }

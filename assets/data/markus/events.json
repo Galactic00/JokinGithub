@@ -1,0 +1,44 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "void",
+		"player1": "marrrio",
+		"player2": "markus",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set characters camera zoom",
+						"enemy",
+						"0.3"
+					],
+					[
+						"Set characters camera zoom",
+						"player",
+						"0.5"
+					]
+				]
+			],
+			[
+				11294.1176470588,
+				[
+					[
+						"Set characters camera zoom",
+						"player",
+						"0.4"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "b",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Markus"
+	}
+}
