@@ -7,27 +7,52 @@
 		"player3": null,
 		"events": [
 			[
-				0,
+				11294.1176470588,
 				[
 					[
-						"Set characters camera zoom",
-						"enemy",
-						"0.3"
-					],
-					[
-						"Set characters camera zoom",
-						"player",
-						"0.5"
+						"Thwomp",
+						"",
+						""
 					]
 				]
 			],
 			[
-				11294.1176470588,
+				40941.1764705882,
 				[
 					[
-						"Set characters camera zoom",
-						"player",
-						"0.4"
+						"Thwomp",
+						"",
+						""
+					]
+				]
+			],
+			[
+				69176.4705882352,
+				[
+					[
+						"Thwomp",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83294.1176470587,
+				[
+					[
+						"Thwomp",
+						"",
+						""
+					]
+				]
+			],
+			[
+				111176.470588235,
+				[
+					[
+						"Thwomp",
+						"",
+						""
 					]
 				]
 			]
@@ -35,7 +60,7 @@
 		"notes": [],
 		"splashSkin": null,
 		"validScore": false,
-		"gfVersion": "b",
+		"gfVersion": "gf",
 		"bpm": 170,
 		"arrowSkin": null,
 		"needsVoices": true,
