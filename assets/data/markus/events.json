@@ -7,6 +7,16 @@
 		"player3": null,
 		"events": [
 			[
+				0,
+				[
+					[
+						"Set characters camera zoom",
+						"player",
+						"0.3"
+					]
+				]
+			],
+			[
 				11294.1176470588,
 				[
 					[

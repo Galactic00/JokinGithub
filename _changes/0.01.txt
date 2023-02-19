@@ -1,4 +1,5 @@
 assets/data/markus/events.json
+assets/stages/void.json
 manifest/default.json
 manifest/shared.json
 manifest/songs.json
