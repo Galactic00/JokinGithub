@@ -1,1 +1,2 @@
 0.01 - You can download this now. It adds some events to markus. I will fix the camera later.
+0.02 - This adds a discord ID Option at the very bottom of the main menu.
